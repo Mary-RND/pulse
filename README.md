@@ -1,3 +1,5 @@
+> [← Портфолио Марины Петрушиной](https://mary-rnd.github.io/portfolio/) — сайты, ИИ-боты, трекеры и автоматизация для малого бизнеса и MedTech.
+
 <div align="center">
 
 <img src="info/logo.svg" width="76" alt="Pulse">
